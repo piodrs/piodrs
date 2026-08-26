@@ -1,4 +1,5 @@
 name              Piod
+os                Slackware
 interest          SysAdmin
-stack             Shell · JavaScript · C
+stack             Shell | JavaScript | C | Lisp
 animal favorite   Cats
