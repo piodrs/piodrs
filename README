@@ -1,5 +1,5 @@
 name              Piod
-os                Slackware
+os                NixOS
 interest          SysAdmin
 stack             Shell | JavaScript | C | Lisp
 animal favorite   Cats
