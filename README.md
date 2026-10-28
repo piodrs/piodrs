@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**piodrs/piodrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/5xNa36p.png" width="180" alt="teto" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# piodrs
+
+I write C and shell, and like understanding Unix from the bottom up.
+
+SysAdmin - Xorg - Compilers
+
+**[wm](https://github.com/piodrs/wm)**  
+A minimal X11 window manager in C
+
+**[raycaster](https://github.com/piodrs/raycaster)**  
+A small raycaster in C
+
+</div>
