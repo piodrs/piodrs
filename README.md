@@ -7,7 +7,7 @@
 
 I write C and shell, and like understanding Unix from the bottom up.
 
-SysAdmin - Xorg - Compilers
+SysAdmin - Xorg - Compilers - Games
 
 **[adachi](https://github.com/piodrs/adachi)**  
 A minimal X11 tilling window manager in C
